@@ -1,4 +1,4 @@
-namespace WinFormsDemo
+    namespace WinFormsDemo
 {
     internal static class Program
     {
